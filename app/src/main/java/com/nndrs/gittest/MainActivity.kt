@@ -11,8 +11,5 @@ class MainActivity : AppCompatActivity() {
         //A
         //B
         //C
-        //WKWK
-        //Haha
-        //LOLZ
     }
 }
